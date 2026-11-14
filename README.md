@@ -1,16 +1,16 @@
 <div align="center">
 
-<!-- DYNAMIC CAPSULE BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,13,25&height=220&section=header&text=Sujith%20P&fontSize=52&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Software%20Engineer%20%7C%20Java%2C%20Spring%20Boot%20%26%20React&descFontSize=20&descAlignY=62&fontColor=ffffff" width="100%" alt="Sujith P Banner"/>
+<!-- HERO BANNER (HOSTED LOCALLY) -->
+<img src="assets/banner.svg" alt="Sujith P Banner" width="100%"/>
 
-<!-- TYPING ANIMATION HEADER -->
+<!-- TYPING HEADER -->
 <a href="https://github.com/sujith553">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Full-Stack+Software+Engineer+%E2%80%A2+Web+Architect;Spring+Boot+%E2%80%A2+React+19+%E2%80%A2+REST+APIs;Java+%E2%80%A2+Python+%E2%80%A2+JavaScript+%E2%80%A2+MySQL;Building+Secure+Enterprise+Web+Platforms;Creator+of+CivicPulse+%26+Doctor-Appointment+System" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- SOCIAL / CONTACT BADGES -->
+<!-- SOCIAL / CONTACT QUICK BADGES -->
 <p align="center">
   <a href="mailto:sujithp012005@gmail.com"><img src="https://img.shields.io/badge/Email-sujithp012005%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -19,7 +19,8 @@
   <a href="https://github.com/sujith553"><img src="https://img.shields.io/badge/Status-Open_to_Opportunities-238636?style=flat-square&logo=github&logoColor=white" alt="Status"/></a>
 </p>
 
----
+<!-- GLOWING DIVIDER -->
+<img src="assets/divider.svg" width="100%"/>
 
 </div>
 
@@ -27,7 +28,7 @@
 
 <table>
   <tr>
-    <td valign="top" width="60%">
+    <td valign="top" width="58%">
       <p>
         👋 Hi there! I'm <b>Sujith P</b>, a <b>Full-Stack Software Engineer</b> passionate about engineering scalable web applications, robust REST APIs, and applied AI systems.
       </p>
@@ -42,13 +43,15 @@
         <li>🎯 <b>Current Focus:</b> Deepening expertise in Microservices communication, container orchestration with Docker, and cloud-native backend performance.</li>
       </ul>
     </td>
-    <td valign="middle" align="center" width="40%">
-      <img width="330" src="https://raw.githubusercontent.com/Abu1820/Abu1820/main/assets/code.gif" alt="Coding GIF" style="border-radius: 12px; border: 1px solid #30363d;"/>
+    <td valign="middle" align="center" width="42%">
+      <img width="340" src="assets/code.gif" alt="Coding GIF" style="border-radius: 12px; border: 1px solid #30363d;"/>
     </td>
   </tr>
 </table>
 
----
+<div align="center">
+  <img src="assets/divider.svg" width="100%"/>
+</div>
 
 ## 🛠️ Tech Stack & Competencies
 
@@ -109,7 +112,9 @@
   </tr>
 </table>
 
----
+<div align="center">
+  <img src="assets/divider.svg" width="100%"/>
+</div>
 
 ## 🚀 Featured Projects & Engineering Highlights
 
@@ -148,7 +153,9 @@
 - **Multi-Metric Evaluation Engine:** Designed a 5-dimension automated grading rubric evaluating intent coverage, factual accuracy, actionability, tone, and safety.
 </details>
 
----
+<div align="center">
+  <img src="assets/divider.svg" width="100%"/>
+</div>
 
 ## 🏆 Honors & Key Achievements
 
@@ -163,7 +170,9 @@
 
 </div>
 
----
+<div align="center">
+  <img src="assets/divider.svg" width="100%"/>
+</div>
 
 ## 🎓 Education & Background
 
@@ -176,7 +185,9 @@
 
 </div>
 
----
+<div align="center">
+  <img src="assets/divider.svg" width="100%"/>
+</div>
 
 ## 📚 Currently Exploring & Upskilling
 
@@ -187,11 +198,9 @@
   🧠 Applied AI Integrations   → Semantic vector search, hybrid RAG pipelines & embeddings
 ```
 
+<!-- FOOTER WAVE (HOSTED LOCALLY) -->
 <div align="center">
-
-<!-- FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,13,25&height=120&section=footer" width="100%" alt="Footer Wave"/>
-
-<sub>👇 Explore my repositories and commit activity below</sub>
-
+  <img src="assets/footer.svg" alt="Footer Wave" width="100%"/>
+  <br/>
+  <sub>👇 Explore my repositories and commit activity below</sub>
 </div>
